@@ -1,6 +1,6 @@
 var mayo = 0;
-while (mayo<=10) {
+while (mayo<11) {
   console.log(mayo);
-  mayo=mayo+1;
+  mayo++;
 
 }
