@@ -3,4 +3,4 @@ console.log("Betty Holberton")
 6-6
 3*4
 20/2
-let my_variable = I love JavaScript!
+let my_variable = I love JavaScript!;
